@@ -11,6 +11,13 @@ A collection of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sk
 | [book-review](book/book-review/) | Relecture experte de manuscrits : correction linguistique, analyse stylistique, notation, et production de DOCX corriges avec mise en page preservee. |
 | [beta-reader](book/beta-reader/) | Beta-lecture immersive par panel de personas (lecteur-cible, critique, editeur, grand public). Evaluation chapitre par chapitre avec notation croisee. |
 
+### UX — Audit & experience utilisateur
+
+| Skill | Description |
+|-------|-------------|
+| [user-advocate](UX/user-advocate/) | Audit UX brutal et constructif du point de vue utilisateur final. Simule une session reelle, produit un diagnostic vecu avec frictions et ameliorations concretes. |
+| [ux-to-specs](UX/ux-to-specs/) | Transforme retours UX et audits en fiches d'amelioration dev-ready avec criteres d'acceptation, fichiers concernes et plan d'implementation. |
+
 ## Installation
 
 ### 1. Copier le skill dans votre repertoire Claude Code
@@ -39,6 +46,9 @@ skills-for-all/
   book/                        # Skills d'edition litteraire
     book-review/               #   Relecture & correction de manuscrits
     beta-reader/               #   Beta-lecture par personas
+  UX/                          # Skills d'audit UX
+    user-advocate/             #   Audit UX vecu par persona
+    ux-to-specs/               #   Frictions UX → fiches dev-ready
 ```
 
 ## Contribuer
