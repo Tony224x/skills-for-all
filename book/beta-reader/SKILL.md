@@ -1,5 +1,6 @@
 ---
 name: beta-reader
+license: CC BY-NC 4.0
 description: "Beta-lecture immersive par panel de personas (lecteur-cible, critique, editeur, grand public). Evalue l'experience de lecture chapitre par chapitre avec notation sur 5 et synthese croisee. A utiliser pour tout retour de lecteur, test de lectorat, ou simulation de comite de lecture. Distinct du skill book-review (correction linguistique)."
 ---
 
@@ -259,3 +260,7 @@ Intérêt
 - **Honnêteté** : Ne pas gonfler les notes par politesse. Un 3/5 est correct. Un 5/5 est rare et exceptionnel. La complaisance ne rend pas service.
 - **Spécificité** : Éviter les commentaires vagues ("c'est bien", "il y a des longueurs"). Toujours préciser *quoi*, *où* et *pourquoi*.
 - **Spoilers** : Dans les avis par chapitre, le persona ne connaît pas la suite. Ne pas anticiper. Les "questions de lecteur" reflètent une vraie découverte progressive.
+
+---
+
+*Copyright (c) 2026 VON BIELER Anthony — [CC BY-NC 4.0](../../LICENSE). Utilisation et modification libres avec attribution obligatoire. Usage commercial interdit sans autorisation.*

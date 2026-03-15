@@ -1,5 +1,6 @@
 ---
 name: book-review
+license: CC BY-NC 4.0
 description: "Relecture experte de manuscrits et textes litteraires en cours d'ecriture. Utilise ce skill quand l'utilisateur demande une relecture, une correction, un avis litteraire, une critique de manuscrit, une notation de texte, ou mentionne un livre/roman/nouvelle/chapitre/texte a relire, corriger ou evaluer. Aussi quand l'utilisateur envoie un fichier .docx, .pdf ou .txt contenant un texte narratif ou litteraire a analyser. Couvre la correction linguistique, l'analyse stylistique, la notation sur 5, et l'accompagnement iteratif chapitre par chapitre."
 ---
 
@@ -298,3 +299,7 @@ Editeur bienveillant mais exigeant :
 ## Langue
 
 Rapport en francais sauf demande contraire. Si le texte est dans une autre langue, relecture dans cette langue.
+
+---
+
+*Copyright (c) 2026 VON BIELER Anthony — [CC BY-NC 4.0](../../LICENSE). Utilisation et modification libres avec attribution obligatoire. Usage commercial interdit sans autorisation.*

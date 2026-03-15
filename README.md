@@ -17,7 +17,7 @@ A collection of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sk
 
 ```bash
 # Cloner le repo
-git clone https://github.com/<your-username>/skills-for-all.git
+git clone https://github.com/Tony224x/skills-for-all.git
 
 # Copier un skill dans votre config Claude Code
 cp -r skills-for-all/book/book-review ~/.claude/skills/book-review
@@ -52,4 +52,4 @@ Les contributions sont les bienvenues. Pour ajouter un skill :
 
 ## Licence
 
-[MIT](LICENSE)
+[CC BY-NC 4.0](LICENSE) — Copyright (c) 2026 VON BIELER Anthony
