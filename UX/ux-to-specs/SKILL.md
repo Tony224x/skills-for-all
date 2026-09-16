@@ -1,7 +1,7 @@
 ---
 name: ux-to-specs
 description: "Transforme retours UX/audits en fiches d'amélioration dev-ready (problème, critères d'acceptation, fichiers, plan). Déclencher après /user-advocate ou sur 'crée des fiches', 'transforme en tâches'."
-license: CC BY-NC 4.0
+license: MIT
 ---
 
 # UX to Specs — Des frictions utilisateur aux fiches de développement
@@ -217,4 +217,4 @@ Mode ciblé : produit une seule fiche pour une friction spécifique mentionnée 
 
 ---
 
-*Copyright (c) 2026 VON BIELER Anthony — [CC BY-NC 4.0](../../LICENSE). Utilisation et modification libres avec attribution obligatoire. Usage commercial interdit sans autorisation.*
+*Copyright (c) 2026 VON BIELER Anthony — [MIT](../../LICENSE). Utilisation, modification et redistribution libres, y compris commerciales, notice de copyright conservée.*

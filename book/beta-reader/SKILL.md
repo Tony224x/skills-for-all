@@ -1,6 +1,6 @@
 ---
 name: beta-reader
-license: CC BY-NC 4.0
+license: MIT
 description: "Beta-lecture immersive par panel de personas (lecteur-cible, critique, editeur, grand public). Evalue l'experience de lecture chapitre par chapitre avec notation sur 5 et synthese croisee. A utiliser pour tout retour de lecteur, test de lectorat, ou simulation de comite de lecture. Distinct du skill book-review (correction linguistique)."
 ---
 
@@ -263,4 +263,4 @@ Intérêt
 
 ---
 
-*Copyright (c) 2026 VON BIELER Anthony — [CC BY-NC 4.0](../../LICENSE). Utilisation et modification libres avec attribution obligatoire. Usage commercial interdit sans autorisation.*
+*Copyright (c) 2026 VON BIELER Anthony — [MIT](../../LICENSE). Utilisation, modification et redistribution libres, y compris commerciales, notice de copyright conservée.*

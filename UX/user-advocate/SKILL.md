@@ -1,7 +1,7 @@
 ---
 name: user-advocate
 description: "Audit UX brutal et constructif du point de vue utilisateur final. Produit un diagnostic vécu avec améliorations concrètes. Déclencher pour évaluer/challenger une feature, un parcours, ou sur 'mets-toi à la place de...'."
-license: CC BY-NC 4.0
+license: MIT
 ---
 
 # User Advocate — Vivre le produit comme l'utilisateur
@@ -176,4 +176,4 @@ Incarne l'utilisateur qui teste les deux approches et dit laquelle il préfère 
 
 ---
 
-*Copyright (c) 2026 VON BIELER Anthony — [CC BY-NC 4.0](../../LICENSE). Utilisation et modification libres avec attribution obligatoire. Usage commercial interdit sans autorisation.*
+*Copyright (c) 2026 VON BIELER Anthony — [MIT](../../LICENSE). Utilisation, modification et redistribution libres, y compris commerciales, notice de copyright conservée.*
